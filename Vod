@@ -1,7 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w116_and_h174_face/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg", group-title="FILM REQUEST",  ALIEN ROMULUS 2024
-https://yhqd4yg264.pradoi.com/hls2/01/05131/tmngkf1m7nfa_h/index-v1-a1.m3u8?t=tDeNjq-lqGc_tKm-pzFW0y-ztwN-MbPa0sZ1Ob9HXLI&s=1729118910&e=129600&f=25677872&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=134651
+#EXTINF:-1,English sub STARS-957
+https://cdn2.turboviplay.com/data1/66e0d1da41c61/66e0d1da41c611080.m3u8
+#EXTINF:-1, English sub GVG-135 
+https://cdn2.turboviplay.com/data1/66e15d0cc5062/66e15d0cc50621080.m3u8
+#EXTINF:-1,English sub MIMK-032 
+https://cdn2.turboviplay.com/data1/66e14691d12ef/66e14691d12ef720.m3u8
+#EXTINF:-1,English sub IPZZ-209
+https://cdn2.turboviplay.com/data1/66e143d76900c/66e143d76900c720.m3u8
+#EXTINF:-1,English sub SONE-064 
+https://cdn2.turboviplay.com/data1/66e0edbfcaecc/66e0edbfcaecc1080.m3u8
+#EXTINF:-1,English sub JUQ-551 
+https://cdn2.turboviplay.com/data1/66e0984940238/66e09849402381080.m3u8
+#EXTINF:-1,English sub STARS-971
+https://cdn2.turboviplay.com/data1/66e0b45f55603/66e0b45f556031080.m3u8
 
-#EXTINF:-1 tvg-logo="https://themoviemusings.com/wp-content/uploads/2024/06/zqc1pitqfxzdbemhlqgo5mxc4od.jpg"group-title="FILM REQUEST", The Substance 2024
-https://g9hb6ahmf6ejy.pradoi.com/hls2/01/05129/ze1i48dmw8ez_,l,n,.urlset/index-f2-v1-a1.m3u8?t=LeLRgf7A5rYrXP0VYTDLJ122OfGltkoJWo2Pxsk8tmY&s=1729186346&e=129600&f=25646740&srv=za19kpiaw6i&i=0.0&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=134651
+#EXTINF:-1,DASD-627 
+https://surrit.com/1af7af62-3396-4109-92f3-9bbfbddc402d/480p/video.m3u8
+#EXTINF:-1,IPZZ-445 -XV-
+https://surrit.com/b7eac28d-33eb-4aaa-9f3d-44e2193da390/720p/video.m3u8
+
+#EXTINF:-1,ADN-541-SUB English Subtitle
+https://cdn.turboviplay.com/data1/66e1b3048127b/66e1b3048127b1080.m3u8
+#EXTINF:-1, JUQ-893
+https://cdn.turboviplay.com/data1/67121bf648981/67121bf6489811080.m3u8
+#EXTINF:-1,GHOR-27 - English Subtitle
+https://cdn.turboviplay.com/data1/66e3972c81f25/66e3972c81f251080.m3u8
+#EXTINF:-1,SONE-070 - English Subtitle
+https://cdn.turboviplay.com/data1/66e38ac60bdb5/66e38ac60bdb51080.m3u8
+#EXTINF:-1,SONE-071 - [English Subtitle]
+https://cdn.turboviplay.com/data1/66e388805ed42/66e388805ed42720.m3u8
+#EXTINF:-1,ALDN-260 - English Subtitle
+https://cdn.turboviplay.com/data1/66e31dd7b2d30/66e31dd7b2d30720.m3u8
+
+#EXTINF:-1,MIDV-590 - English Subtitle
+https://cdn.turboviplay.com/data1/66c6208820118/66c62088201181080.m3u8
